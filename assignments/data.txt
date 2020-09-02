@@ -1,0 +1,1 @@
+Errors returned from this package may be tested against these errors with errors.Is.Chdir changes the current working directory to the named directory. If there is an error, it will be of type *PathError.
